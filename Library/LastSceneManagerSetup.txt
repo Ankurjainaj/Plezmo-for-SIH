@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/UI element/UI/LUI/Scenes/Curaphic Layout.unity
+  isLoaded: 1
+  isActive: 1
